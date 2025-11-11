@@ -1,0 +1,6 @@
+best_MAE: 0.0016639453824609518
+best_params:
+  dropout_rate: 0.27381266869891185
+  learning_rate: 0.0025776098116298512
+  units: 96
+optimizer: Hybrid PSO + CSA

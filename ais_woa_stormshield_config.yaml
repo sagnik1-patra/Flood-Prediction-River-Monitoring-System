@@ -1,0 +1,6 @@
+best_MAE: 0.0022790359798818827
+best_params:
+  dropout_rate: 0.3579072314615207
+  learning_rate: 0.002707582405723555
+  units: 63
+optimizer: Hybrid AIS + WOA
